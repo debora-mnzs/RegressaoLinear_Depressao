@@ -4,7 +4,7 @@ O código realiza as seguintes etapas:
 
 1. Carrega um conjunto de dados sobre depressão e seus sintomas.
     - O Dataset contém respostas de indivíduos que avaliaram sintomas de depressão entre 0 e 6 baseado na frequência que ocorrem.
-    - O Dataset foi escolhido entre os disponíveis na plataforma Kaggle e pode ser visitado através do link: 'https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset'.
+    - O Dataset foi escolhido entre os disponíveis na plataforma Kaggle e pode ser visitado através do link: https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset.
 
 2. Realiza a limpeza dos dados.
     - Remove linhas com valores ausentes e colunas irrelevantes.
