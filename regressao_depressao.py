@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('RegressaoLinear_Depressao\\Depression.csv')
+df = pd.read_csv('Depression.csv')
 
 # LIMPEZA DE DADOS
 # removendo linhas não preenchidas
